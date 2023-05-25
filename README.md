@@ -2,7 +2,7 @@
 # Real Time Chat using PHP with MySql & Javascript
 
 <p align="center">
-<img alt="Maze Game Photo" src="https://github.com/nassef333/Maze-Game/blob/main/Maze%20Game.png">
+<img alt="Chat App" src="https://github.com/nassef333/RealTime-Chat/blob/main/img_6092ada6387c9.jpg">
 </p>
 
 ## Features
